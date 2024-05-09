@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/_Main/Blueprints/Mirror/BP_Mirror.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/_Main/Blueprints/Mirror/CRT_Mirror.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/_Main/Blueprints/Mirror/CRT_Mirror_Mat.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/Props/Mirror/CRT_Mirror_Mat.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/Props/Mirror/CRT_Mirror.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/Props/Mirror/BP_Mirror.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Input/Actions/IA_SmoothMove.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Input/Actions/IA_SmoothTurn.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Input/Actions/IA_Jump.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Input/Actions/IA_MoveHorizontal.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Input/Actions/IA_MoveVertical.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"C:/Users/ElDia/Documents/Unreal Projects/PPFE Folder/Recherche/PPFE/Content/VRTemplate/Blueprints/GrabComponent.uasset"
+			]
+		}
+	]
+}
